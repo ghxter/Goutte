@@ -11,7 +11,7 @@
 /** define application environment */
 defined('_DNS_TRACKING')  || define('_DNS_TRACKING', 'mysql:host=localhost;dbname=test');
 defined('_DNS_USERNAME')  || define('_DNS_USERNAME', 'root');
-defined('_DNS_PASSWORD')  || define('_DNS_PASSWORD', '123456');
+defined('_DNS_PASSWORD')  || define('_DNS_PASSWORD', '');
 defined('TABLE_PREFIX') || define('TABLE_PREFIX', 'qq_');
 /**
  * Tracking_Tracker
